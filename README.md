@@ -13,7 +13,7 @@
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Davi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Davi-pic" height="150" style="border-radius:50px;" src="https://scontent.feoh4-4.fna.fbcdn.net/v/t1.6435-9/128963864_3716275398424648_4819998578779104826_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=110&ccb=1-5&_nc_sid=da31f3&_nc_eui2=AeEDs39nmtxzqWv_vtEr9jj6GszSGYaWyBEazNIZhpbIEctcXkQrwZ_T01IqCKrPN0uo4OqfN8F9Uomd7A7amyPS&_nc_ohc=dUP-MsY0TmgAX-zPa33&tn=ohjAJUT5Z08C8Tv4&_nc_ht=scontent.feoh4-4.fna&oh=00_AT8GzgUeG1FIQhA5eTvmRLlE08uCwFkaDh4p7vvhimNqTg&oe=62967C3F">
+
 </div>
   ##
 <div>
